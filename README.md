@@ -32,7 +32,7 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 
 ## AVAILABLE ON :
 
-* Termux
+* Termux 
 
 ### TESTED ON :
 
