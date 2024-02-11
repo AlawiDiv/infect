@@ -7,7 +7,7 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-4ba87336cccf.jpg"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://telegra.ph/file/5788d17742df2ab2c7ca2.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/AlawiDiv"><img title="Github" src="https://img.shields.io/badge/AlawiDiv-brightgreen?style=for-the-badge&logo=github"></a>
